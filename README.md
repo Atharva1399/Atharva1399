@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi there, I’m Atharva!
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+learning+new+things!" alt="Typing SVG" /> </p>
+🚀 About Me
+🧑‍💻 I’m a passionate AI and web3 enthusiast from India
 
-<!--
-**Atharva1399/Atharva1399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning: Machine Learning
 
-Here are some ideas to get you started:
+💬 Ask me about: AI/ML/blockchain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: atharvaagaikwad04@gmail.com
+
+⚡ Fun fact: I can code upside down
+
+🛠️ Tech Stack
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/> </p>
