@@ -13,4 +13,4 @@
 
 🛠️ Tech Stack
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Atharva1399&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva1399&layout=compact&theme=tokyonight" height="180"/> </p>
